@@ -19,6 +19,10 @@ config/name="Glep"
 run/main_scene="res://Map1.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+GlobalVars="*res://GlobalVars.gd"
+
 [input]
 
 right={
@@ -81,6 +85,12 @@ dash={
 "events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":16777237,"unicode":0,"echo":false,"script":null)
  ]
 }
+
+[layer_names]
+
+3d_physics/layer_1="player"
+3d_physics/layer_2="environment"
+3d_physics/layer_3="destructibles"
 
 [rendering]
 
