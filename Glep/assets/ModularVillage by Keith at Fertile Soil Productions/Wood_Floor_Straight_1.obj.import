@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wood_Floor_Straight_1.obj-9284e29a7f1c570a357156a34d303a74.mesh"
+
+[deps]
+
+files=[ "res://.import/Wood_Floor_Straight_1.obj-9284e29a7f1c570a357156a34d303a74.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Wood_Floor_Straight_1.obj"
+dest_files=[ "res://.import/Wood_Floor_Straight_1.obj-9284e29a7f1c570a357156a34d303a74.mesh", "res://.import/Wood_Floor_Straight_1.obj-9284e29a7f1c570a357156a34d303a74.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

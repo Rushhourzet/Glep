@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stone_Steps.obj-4a1bbb607165d3332a3551036129ffd3.mesh"
+
+[deps]
+
+files=[ "res://.import/Stone_Steps.obj-4a1bbb607165d3332a3551036129ffd3.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Stone_Steps.obj"
+dest_files=[ "res://.import/Stone_Steps.obj-4a1bbb607165d3332a3551036129ffd3.mesh", "res://.import/Stone_Steps.obj-4a1bbb607165d3332a3551036129ffd3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

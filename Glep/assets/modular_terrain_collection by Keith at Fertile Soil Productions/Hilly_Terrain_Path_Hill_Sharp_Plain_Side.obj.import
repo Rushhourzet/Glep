@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Terrain_Path_Hill_Sharp_Plain_Side.obj-a8c89ef89beff8f48b390e58e884c06a.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Terrain_Path_Hill_Sharp_Plain_Side.obj-a8c89ef89beff8f48b390e58e884c06a.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Hilly_Terrain_Path_Hill_Sharp_Plain_Side.obj"
+dest_files=[ "res://.import/Hilly_Terrain_Path_Hill_Sharp_Plain_Side.obj-a8c89ef89beff8f48b390e58e884c06a.mesh", "res://.import/Hilly_Terrain_Path_Hill_Sharp_Plain_Side.obj-a8c89ef89beff8f48b390e58e884c06a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

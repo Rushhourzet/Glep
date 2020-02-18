@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Prop_Door_Ornate.obj-9655c9a400bda7326e987c6894d9ce4c.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Prop_Door_Ornate.obj-9655c9a400bda7326e987c6894d9ce4c.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Wall_Prop_Door_Ornate.obj"
+dest_files=[ "res://.import/Wall_Prop_Door_Ornate.obj-9655c9a400bda7326e987c6894d9ce4c.mesh", "res://.import/Wall_Prop_Door_Ornate.obj-9655c9a400bda7326e987c6894d9ce4c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

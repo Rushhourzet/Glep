@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stucco_Window_Rounded_Wide.obj-111f77748815ca0b52131e008f7719ba.mesh"
+
+[deps]
+
+files=[ "res://.import/Stucco_Window_Rounded_Wide.obj-111f77748815ca0b52131e008f7719ba.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Stucco_Window_Rounded_Wide.obj"
+dest_files=[ "res://.import/Stucco_Window_Rounded_Wide.obj-111f77748815ca0b52131e008f7719ba.mesh", "res://.import/Stucco_Window_Rounded_Wide.obj-111f77748815ca0b52131e008f7719ba.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

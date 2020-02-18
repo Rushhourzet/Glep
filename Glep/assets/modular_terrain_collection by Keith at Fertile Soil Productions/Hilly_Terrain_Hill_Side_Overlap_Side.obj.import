@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Terrain_Hill_Side_Overlap_Side.obj-41932d85456937e8e58499109a244031.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Terrain_Hill_Side_Overlap_Side.obj-41932d85456937e8e58499109a244031.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Hilly_Terrain_Hill_Side_Overlap_Side.obj"
+dest_files=[ "res://.import/Hilly_Terrain_Hill_Side_Overlap_Side.obj-41932d85456937e8e58499109a244031.mesh", "res://.import/Hilly_Terrain_Hill_Side_Overlap_Side.obj-41932d85456937e8e58499109a244031.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

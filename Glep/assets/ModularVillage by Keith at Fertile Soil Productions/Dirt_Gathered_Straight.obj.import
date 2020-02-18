@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Dirt_Gathered_Straight.obj-a1e7e671b0807addcb7e31ec8615c350.mesh"
+
+[deps]
+
+files=[ "res://.import/Dirt_Gathered_Straight.obj-a1e7e671b0807addcb7e31ec8615c350.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Dirt_Gathered_Straight.obj"
+dest_files=[ "res://.import/Dirt_Gathered_Straight.obj-a1e7e671b0807addcb7e31ec8615c350.mesh", "res://.import/Dirt_Gathered_Straight.obj-a1e7e671b0807addcb7e31ec8615c350.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

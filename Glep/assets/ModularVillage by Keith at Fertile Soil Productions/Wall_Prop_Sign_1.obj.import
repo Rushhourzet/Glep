@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Prop_Sign_1.obj-adc63a74f9c2ef24c3e292c434130406.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Prop_Sign_1.obj-adc63a74f9c2ef24c3e292c434130406.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Wall_Prop_Sign_1.obj"
+dest_files=[ "res://.import/Wall_Prop_Sign_1.obj-adc63a74f9c2ef24c3e292c434130406.mesh", "res://.import/Wall_Prop_Sign_1.obj-adc63a74f9c2ef24c3e292c434130406.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

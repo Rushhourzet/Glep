@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Terrain_Path_Corner_Inner_1x1.obj-a8406606fb749544b4574c0e42a3a32c.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Terrain_Path_Corner_Inner_1x1.obj-a8406606fb749544b4574c0e42a3a32c.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Hilly_Terrain_Path_Corner_Inner_1x1.obj"
+dest_files=[ "res://.import/Hilly_Terrain_Path_Corner_Inner_1x1.obj-a8406606fb749544b4574c0e42a3a32c.mesh", "res://.import/Hilly_Terrain_Path_Corner_Inner_1x1.obj-a8406606fb749544b4574c0e42a3a32c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

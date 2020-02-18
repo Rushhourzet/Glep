@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Waterwheel_Flume_Ramp.obj-da8f00a01ce9c3805c4a1e9811b4c4ff.mesh"
+
+[deps]
+
+files=[ "res://.import/Waterwheel_Flume_Ramp.obj-da8f00a01ce9c3805c4a1e9811b4c4ff.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Waterwheel_Flume_Ramp.obj"
+dest_files=[ "res://.import/Waterwheel_Flume_Ramp.obj-da8f00a01ce9c3805c4a1e9811b4c4ff.mesh", "res://.import/Waterwheel_Flume_Ramp.obj-da8f00a01ce9c3805c4a1e9811b4c4ff.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

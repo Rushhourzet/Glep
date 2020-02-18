@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stone_Sewer_Grate_2.obj-9c59a0964a4d5165ab18e1df15de11a7.mesh"
+
+[deps]
+
+files=[ "res://.import/Stone_Sewer_Grate_2.obj-9c59a0964a4d5165ab18e1df15de11a7.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Stone_Sewer_Grate_2.obj"
+dest_files=[ "res://.import/Stone_Sewer_Grate_2.obj-9c59a0964a4d5165ab18e1df15de11a7.mesh", "res://.import/Stone_Sewer_Grate_2.obj-9c59a0964a4d5165ab18e1df15de11a7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

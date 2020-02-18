@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Beach_Terrain_Sand_Floor.obj-014bf5291f00f66627e07328841f2547.mesh"
+
+[deps]
+
+files=[ "res://.import/Beach_Terrain_Sand_Floor.obj-014bf5291f00f66627e07328841f2547.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Beach_Terrain_Sand_Floor.obj"
+dest_files=[ "res://.import/Beach_Terrain_Sand_Floor.obj-014bf5291f00f66627e07328841f2547.mesh", "res://.import/Beach_Terrain_Sand_Floor.obj-014bf5291f00f66627e07328841f2547.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

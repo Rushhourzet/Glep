@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Well_Cobblestone.obj-829c9cce8108150f8cbc7d3b66acc857.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Well_Cobblestone.obj-829c9cce8108150f8cbc7d3b66acc857.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Prop_Well_Cobblestone.obj"
+dest_files=[ "res://.import/Prop_Well_Cobblestone.obj-829c9cce8108150f8cbc7d3b66acc857.mesh", "res://.import/Prop_Well_Cobblestone.obj-829c9cce8108150f8cbc7d3b66acc857.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

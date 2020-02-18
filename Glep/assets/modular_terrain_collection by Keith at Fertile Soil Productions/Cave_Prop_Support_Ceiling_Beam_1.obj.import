@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cave_Prop_Support_Ceiling_Beam_1.obj-9dd27439748508daa917e0ca3afcd3de.mesh"
+
+[deps]
+
+files=[ "res://.import/Cave_Prop_Support_Ceiling_Beam_1.obj-9dd27439748508daa917e0ca3afcd3de.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Cave_Prop_Support_Ceiling_Beam_1.obj"
+dest_files=[ "res://.import/Cave_Prop_Support_Ceiling_Beam_1.obj-9dd27439748508daa917e0ca3afcd3de.mesh", "res://.import/Cave_Prop_Support_Ceiling_Beam_1.obj-9dd27439748508daa917e0ca3afcd3de.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

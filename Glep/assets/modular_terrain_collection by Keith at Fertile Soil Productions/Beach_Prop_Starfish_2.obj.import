@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Beach_Prop_Starfish_2.obj-c5e981644b6e6774713d6f0f944272e6.mesh"
+
+[deps]
+
+files=[ "res://.import/Beach_Prop_Starfish_2.obj-c5e981644b6e6774713d6f0f944272e6.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Beach_Prop_Starfish_2.obj"
+dest_files=[ "res://.import/Beach_Prop_Starfish_2.obj-c5e981644b6e6774713d6f0f944272e6.mesh", "res://.import/Beach_Prop_Starfish_2.obj-c5e981644b6e6774713d6f0f944272e6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stone_Floor_1.obj-158b5d3a3b4b0c2764579b6e3819764e.mesh"
+
+[deps]
+
+files=[ "res://.import/Stone_Floor_1.obj-158b5d3a3b4b0c2764579b6e3819764e.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Stone_Floor_1.obj"
+dest_files=[ "res://.import/Stone_Floor_1.obj-158b5d3a3b4b0c2764579b6e3819764e.mesh", "res://.import/Stone_Floor_1.obj-158b5d3a3b4b0c2764579b6e3819764e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

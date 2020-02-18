@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Roof_Straight_Corner_Outer_Eave.obj-aac575894ec71a0893feca917ce1f201.mesh"
+
+[deps]
+
+files=[ "res://.import/Roof_Straight_Corner_Outer_Eave.obj-aac575894ec71a0893feca917ce1f201.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Roof_Straight_Corner_Outer_Eave.obj"
+dest_files=[ "res://.import/Roof_Straight_Corner_Outer_Eave.obj-aac575894ec71a0893feca917ce1f201.mesh", "res://.import/Roof_Straight_Corner_Outer_Eave.obj-aac575894ec71a0893feca917ce1f201.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

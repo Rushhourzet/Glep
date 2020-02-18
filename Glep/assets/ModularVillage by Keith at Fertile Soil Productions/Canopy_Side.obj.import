@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Canopy_Side.obj-228b5e27089c9aa0e1ce7113d8f88e7d.mesh"
+
+[deps]
+
+files=[ "res://.import/Canopy_Side.obj-228b5e27089c9aa0e1ce7113d8f88e7d.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Canopy_Side.obj"
+dest_files=[ "res://.import/Canopy_Side.obj-228b5e27089c9aa0e1ce7113d8f88e7d.mesh", "res://.import/Canopy_Side.obj-228b5e27089c9aa0e1ce7113d8f88e7d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Escarpment_Terrain_Corner_Outer_2x2_Top.obj-22bae481ea4cfe7e3c3a0fc2c33115bb.mesh"
+
+[deps]
+
+files=[ "res://.import/Escarpment_Terrain_Corner_Outer_2x2_Top.obj-22bae481ea4cfe7e3c3a0fc2c33115bb.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Escarpment_Terrain_Corner_Outer_2x2_Top.obj"
+dest_files=[ "res://.import/Escarpment_Terrain_Corner_Outer_2x2_Top.obj-22bae481ea4cfe7e3c3a0fc2c33115bb.mesh", "res://.import/Escarpment_Terrain_Corner_Outer_2x2_Top.obj-22bae481ea4cfe7e3c3a0fc2c33115bb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

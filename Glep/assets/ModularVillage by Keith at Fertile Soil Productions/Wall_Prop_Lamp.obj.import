@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Prop_Lamp.obj-6a9651c14e10c023db649f30261e36ca.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Prop_Lamp.obj-6a9651c14e10c023db649f30261e36ca.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Wall_Prop_Lamp.obj"
+dest_files=[ "res://.import/Wall_Prop_Lamp.obj-6a9651c14e10c023db649f30261e36ca.mesh", "res://.import/Wall_Prop_Lamp.obj-6a9651c14e10c023db649f30261e36ca.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

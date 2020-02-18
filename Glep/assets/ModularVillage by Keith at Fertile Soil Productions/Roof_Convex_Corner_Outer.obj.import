@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Roof_Convex_Corner_Outer.obj-9d67326956dac4cc7e45b1e05893b186.mesh"
+
+[deps]
+
+files=[ "res://.import/Roof_Convex_Corner_Outer.obj-9d67326956dac4cc7e45b1e05893b186.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Roof_Convex_Corner_Outer.obj"
+dest_files=[ "res://.import/Roof_Convex_Corner_Outer.obj-9d67326956dac4cc7e45b1e05893b186.mesh", "res://.import/Roof_Convex_Corner_Outer.obj-9d67326956dac4cc7e45b1e05893b186.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

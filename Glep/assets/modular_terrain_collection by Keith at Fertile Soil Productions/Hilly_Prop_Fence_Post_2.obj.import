@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Prop_Fence_Post_2.obj-7959de3fa949cd6966f696c1880c64db.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Prop_Fence_Post_2.obj-7959de3fa949cd6966f696c1880c64db.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Hilly_Prop_Fence_Post_2.obj"
+dest_files=[ "res://.import/Hilly_Prop_Fence_Post_2.obj-7959de3fa949cd6966f696c1880c64db.mesh", "res://.import/Hilly_Prop_Fence_Post_2.obj-7959de3fa949cd6966f696c1880c64db.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

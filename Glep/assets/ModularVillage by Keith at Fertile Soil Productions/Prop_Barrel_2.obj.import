@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Barrel_2.obj-a8b0a4da24c716536e85e71ab64b2be8.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Barrel_2.obj-a8b0a4da24c716536e85e71ab64b2be8.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Prop_Barrel_2.obj"
+dest_files=[ "res://.import/Prop_Barrel_2.obj-a8b0a4da24c716536e85e71ab64b2be8.mesh", "res://.import/Prop_Barrel_2.obj-a8b0a4da24c716536e85e71ab64b2be8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cave_Terrain_Corner_Outer_3x3_Mid.obj-23d23b828a43f56ff2592e842d55c84b.mesh"
+
+[deps]
+
+files=[ "res://.import/Cave_Terrain_Corner_Outer_3x3_Mid.obj-23d23b828a43f56ff2592e842d55c84b.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Cave_Terrain_Corner_Outer_3x3_Mid.obj"
+dest_files=[ "res://.import/Cave_Terrain_Corner_Outer_3x3_Mid.obj-23d23b828a43f56ff2592e842d55c84b.mesh", "res://.import/Cave_Terrain_Corner_Outer_3x3_Mid.obj-23d23b828a43f56ff2592e842d55c84b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

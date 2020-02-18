@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Prop_Flower_Lily_Pink.obj-c8dda309081b78799ee381b8d9f056cf.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Prop_Flower_Lily_Pink.obj-c8dda309081b78799ee381b8d9f056cf.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Hilly_Prop_Flower_Lily_Pink.obj"
+dest_files=[ "res://.import/Hilly_Prop_Flower_Lily_Pink.obj-c8dda309081b78799ee381b8d9f056cf.mesh", "res://.import/Hilly_Prop_Flower_Lily_Pink.obj-c8dda309081b78799ee381b8d9f056cf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

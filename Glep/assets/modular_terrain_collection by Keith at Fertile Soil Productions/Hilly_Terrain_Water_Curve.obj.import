@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Terrain_Water_Curve.obj-a87f835c62b4368e20b6d931e5121d28.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Terrain_Water_Curve.obj-a87f835c62b4368e20b6d931e5121d28.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Hilly_Terrain_Water_Curve.obj"
+dest_files=[ "res://.import/Hilly_Terrain_Water_Curve.obj-a87f835c62b4368e20b6d931e5121d28.mesh", "res://.import/Hilly_Terrain_Water_Curve.obj-a87f835c62b4368e20b6d931e5121d28.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

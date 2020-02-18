@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cliff_Terrain_Corner_Inner_1x1_Base.obj-317f5c97db9f4fafc03aa74818fbc731.mesh"
+
+[deps]
+
+files=[ "res://.import/Cliff_Terrain_Corner_Inner_1x1_Base.obj-317f5c97db9f4fafc03aa74818fbc731.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Cliff_Terrain_Corner_Inner_1x1_Base.obj"
+dest_files=[ "res://.import/Cliff_Terrain_Corner_Inner_1x1_Base.obj-317f5c97db9f4fafc03aa74818fbc731.mesh", "res://.import/Cliff_Terrain_Corner_Inner_1x1_Base.obj-317f5c97db9f4fafc03aa74818fbc731.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

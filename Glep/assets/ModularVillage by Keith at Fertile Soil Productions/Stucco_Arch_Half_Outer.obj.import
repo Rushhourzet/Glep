@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stucco_Arch_Half_Outer.obj-abac189197b9f48da79c3f5add8d881a.mesh"
+
+[deps]
+
+files=[ "res://.import/Stucco_Arch_Half_Outer.obj-abac189197b9f48da79c3f5add8d881a.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Stucco_Arch_Half_Outer.obj"
+dest_files=[ "res://.import/Stucco_Arch_Half_Outer.obj-abac189197b9f48da79c3f5add8d881a.mesh", "res://.import/Stucco_Arch_Half_Outer.obj-abac189197b9f48da79c3f5add8d881a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

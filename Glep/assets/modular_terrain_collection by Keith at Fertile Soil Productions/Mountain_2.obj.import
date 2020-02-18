@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Mountain_2.obj-80b44b095b7eeac287cbd45152832f0a.mesh"
+
+[deps]
+
+files=[ "res://.import/Mountain_2.obj-80b44b095b7eeac287cbd45152832f0a.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Mountain_2.obj"
+dest_files=[ "res://.import/Mountain_2.obj-80b44b095b7eeac287cbd45152832f0a.mesh", "res://.import/Mountain_2.obj-80b44b095b7eeac287cbd45152832f0a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

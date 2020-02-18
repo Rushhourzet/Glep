@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hilly_Prop_Stepping_Stones_5.obj-bf9e8d41d83688d4c2dec10e41fc6b39.mesh"
+
+[deps]
+
+files=[ "res://.import/Hilly_Prop_Stepping_Stones_5.obj-bf9e8d41d83688d4c2dec10e41fc6b39.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Hilly_Prop_Stepping_Stones_5.obj"
+dest_files=[ "res://.import/Hilly_Prop_Stepping_Stones_5.obj-bf9e8d41d83688d4c2dec10e41fc6b39.mesh", "res://.import/Hilly_Prop_Stepping_Stones_5.obj-bf9e8d41d83688d4c2dec10e41fc6b39.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Waterwheel_Flume_Straight.obj-a686bb2131ac7e130f2ffe5a56173efb.mesh"
+
+[deps]
+
+files=[ "res://.import/Waterwheel_Flume_Straight.obj-a686bb2131ac7e130f2ffe5a56173efb.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Waterwheel_Flume_Straight.obj"
+dest_files=[ "res://.import/Waterwheel_Flume_Straight.obj-a686bb2131ac7e130f2ffe5a56173efb.mesh", "res://.import/Waterwheel_Flume_Straight.obj-a686bb2131ac7e130f2ffe5a56173efb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

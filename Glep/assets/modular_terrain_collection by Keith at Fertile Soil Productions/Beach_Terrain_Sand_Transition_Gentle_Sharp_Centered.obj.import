@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Beach_Terrain_Sand_Transition_Gentle_Sharp_Centered.obj-565a57c8821d4b54c01925d679c519ba.mesh"
+
+[deps]
+
+files=[ "res://.import/Beach_Terrain_Sand_Transition_Gentle_Sharp_Centered.obj-565a57c8821d4b54c01925d679c519ba.mesh" ]
+
+source_file="res://assets/modular_terrain_collection by Keith at Fertile Soil Productions/Beach_Terrain_Sand_Transition_Gentle_Sharp_Centered.obj"
+dest_files=[ "res://.import/Beach_Terrain_Sand_Transition_Gentle_Sharp_Centered.obj-565a57c8821d4b54c01925d679c519ba.mesh", "res://.import/Beach_Terrain_Sand_Transition_Gentle_Sharp_Centered.obj-565a57c8821d4b54c01925d679c519ba.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wood_Railing_Stairs.obj-b252b5b2fc113e51681ece6bbc55db3d.mesh"
+
+[deps]
+
+files=[ "res://.import/Wood_Railing_Stairs.obj-b252b5b2fc113e51681ece6bbc55db3d.mesh" ]
+
+source_file="res://assets/ModularVillage by Keith at Fertile Soil Productions/Wood_Railing_Stairs.obj"
+dest_files=[ "res://.import/Wood_Railing_Stairs.obj-b252b5b2fc113e51681ece6bbc55db3d.mesh", "res://.import/Wood_Railing_Stairs.obj-b252b5b2fc113e51681ece6bbc55db3d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
