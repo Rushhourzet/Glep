@@ -1,10 +1,14 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://Player.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Material/testcube_mat.tres" type="Material" id=2]
+[ext_resource path="res://assets/ModularVillage by Keith at Fertile Soil Productions/Prop_Barrel_2.obj" type="ArrayMesh" id=3]
 
 [sub_resource type="PlaneMesh" id=1]
-size = Vector2( 100, 100 )
+size = Vector2( 200, 200 )
+
+[sub_resource type="SpatialMaterial" id=5]
+albedo_color = Color( 0.0666667, 0.156863, 0.0431373, 1 )
 
 [sub_resource type="BoxShape" id=2]
 extents = Vector3( 100, 1, 100 )
@@ -21,7 +25,7 @@ extents = Vector3( 100, 1, 100 )
 
 [node name="MeshInstance" type="MeshInstance" parent="TestPlane"]
 mesh = SubResource( 1 )
-material/0 = null
+material/0 = SubResource( 5 )
 
 [node name="CollisionShape" type="CollisionShape" parent="TestPlane"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1, 0.029 )
@@ -29,6 +33,7 @@ shape = SubResource( 2 )
 
 [node name="TestCube" type="RigidBody" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.03943, -7.31506 )
+mass = 200.0
 
 [node name="MeshInstance" type="MeshInstance" parent="TestCube"]
 mesh = SubResource( 3 )
@@ -37,22 +42,25 @@ material/0 = ExtResource( 2 )
 [node name="CollisionShape" type="CollisionShape" parent="TestCube"]
 shape = SubResource( 4 )
 
-[node name="TestCube2" type="RigidBody" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.75433, 2.03943, -7.31506 )
+[node name="Sun" type="DirectionalLight" parent="."]
+transform = Transform( 0.968374, -0.196132, 0.154218, 0, 0.618107, 0.786094, -0.249501, -0.761234, 0.598559, 0.909308, 20.4624, -3.19107 )
 
-[node name="MeshInstance" type="MeshInstance" parent="TestCube2"]
-mesh = SubResource( 3 )
-material/0 = ExtResource( 2 )
-
-[node name="CollisionShape" type="CollisionShape" parent="TestCube2"]
-shape = SubResource( 4 )
-
-[node name="TestCube3" type="RigidBody" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -13.7281, 1.77564, -1.7017 )
-
-[node name="MeshInstance" type="MeshInstance" parent="TestCube3"]
-mesh = SubResource( 3 )
-material/0 = ExtResource( 2 )
-
-[node name="CollisionShape" type="CollisionShape" parent="TestCube3"]
-shape = SubResource( 4 )
+[node name="Prop_Barrel_2" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.08009, -4.13941 )
+mesh = ExtResource( 3 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
