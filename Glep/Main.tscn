@@ -7,15 +7,15 @@
 [sub_resource type="PlaneMesh" id=1]
 size = Vector2( 200, 200 )
 
-[sub_resource type="SpatialMaterial" id=5]
+[sub_resource type="SpatialMaterial" id=2]
 albedo_color = Color( 0.0666667, 0.156863, 0.0431373, 1 )
 
-[sub_resource type="BoxShape" id=2]
+[sub_resource type="BoxShape" id=3]
 extents = Vector3( 100, 1, 100 )
 
-[sub_resource type="CubeMesh" id=3]
+[sub_resource type="CubeMesh" id=4]
 
-[sub_resource type="BoxShape" id=4]
+[sub_resource type="BoxShape" id=5]
 
 [node name="Main" type="Node"]
 
@@ -25,22 +25,22 @@ extents = Vector3( 100, 1, 100 )
 
 [node name="MeshInstance" type="MeshInstance" parent="TestPlane"]
 mesh = SubResource( 1 )
-material/0 = SubResource( 5 )
+material/0 = SubResource( 2 )
 
 [node name="CollisionShape" type="CollisionShape" parent="TestPlane"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1, 0.029 )
-shape = SubResource( 2 )
+shape = SubResource( 3 )
 
 [node name="TestCube" type="RigidBody" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.03943, -7.31506 )
 mass = 200.0
 
 [node name="MeshInstance" type="MeshInstance" parent="TestCube"]
-mesh = SubResource( 3 )
+mesh = SubResource( 4 )
 material/0 = ExtResource( 2 )
 
 [node name="CollisionShape" type="CollisionShape" parent="TestCube"]
-shape = SubResource( 4 )
+shape = SubResource( 5 )
 
 [node name="Sun" type="DirectionalLight" parent="."]
 transform = Transform( 0.968374, -0.196132, 0.154218, 0, 0.618107, 0.786094, -0.249501, -0.761234, 0.598559, 0.909308, 20.4624, -3.19107 )

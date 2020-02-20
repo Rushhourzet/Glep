@@ -18,9 +18,10 @@ public class Player : RigidBody
 	public override void _PhysicsProcess(float delta)
 	{
 		ApplyCentralImpulse(
-			getMovementForceVector(Transform.basis.z.Normalized(), Transform.basis.x.Normalized(), Transform.basis.y.Normalized()) 
+			getMovementForceVector(camera.GlobalTransform.basis.z.Normalized(), Transform.basis.x.Normalized(), Transform.basis.y.Normalized()) 
 			* movementForce * delta);
-		if(Input.IsActionPressed("gravity_toggle")){
+		
+		if(Input.IsActionJustPressed("gravity_toggle")){
 			if(GravityScale == 1){
 				GravityScale = 0;
 			}
